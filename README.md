@@ -1,16 +1,8 @@
-# Important Notice ‼️ [![](https://data.jsdelivr.com/v1/package/gh/theamanstark/organic-safelink/badge)](https://www.jsdelivr.com/package/gh/theamanstark/organic-safelink)
 
-### This repository is just now a read-only archive; all future versions of organic-safelink and its different variants will be launched under [github.com/organicsafelink](https://github.com/organicsafelink). We're still working on the future version of this tool, and it's going to be a major update, so please bear with us. 
-
-<br>
-
-# Key Information
-
-
-# safelink
 Organic Google Safelink
 
-# Important Notice ‼️ [![](https://data.jsdelivr.com/v1/package/gh/techlystb/safelink/badge)](https://www.jsdelivr.com/package/gh/techlystb/organic-safelinksafelink### This repository is just now a read-only archive; all future versions of organic-safelink and its different variants will be launched under [github.com/techlystb](https://github.com/techlystb/organicsafelink). We're still working on the future version of this tool, and it's going to be a major update, so please bear with us. 
+# Important Notice ‼️ [![](https://data.jsdelivr.com/v1/package/gh/techlystb/safelink/badge)](https://www.jsdelivr.com/package/gh/techlystb/organic-sorganic-safelink)
+### This repository is just now a read-only archive; all future versions of organic-safelink and its different variants will be launched under [github.com/techlystb](https://github.com/techlystb/organicsafelink). We're still working on the future version of this tool, and it's going to be a major update, so please bear with us. 
 
 <br>
 
